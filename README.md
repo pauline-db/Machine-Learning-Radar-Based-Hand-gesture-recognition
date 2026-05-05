@@ -83,13 +83,4 @@ The Chebyshev moment method performed significantly better than the micro-Dopple
 
 The best overall performance was achieved using **Chebyshev moments with a k-NN classifier**, reaching an accuracy of **88.65%**.
 
-## Repository Structure
 
-```text
-.
-├── data/                  # Dataset files or spectrogram inputs
-├── notebooks/             # Jupyter notebooks for experimentation
-├── src/                   # Python source code
-├── results/               # Plots, confusion matrices, and output figures
-├── Report_ML.pdf          # Final project report
-└── README.md              # Project documentation
