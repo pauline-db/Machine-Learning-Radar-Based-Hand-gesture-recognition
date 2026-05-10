@@ -3,7 +3,7 @@
 
 **Date:** October 2025
 
-This repository contains the final project for the course **EE4C12 – Wireless Communication and Sensing**.  
+This repository contains the final project for the course.
 The project focuses on **automatic hand gesture classification** using radar micro-Doppler signatures and machine learning.
 
 The goal was to build and compare different feature extraction and classification pipelines for recognizing hand gestures from radar spectrogram data.
